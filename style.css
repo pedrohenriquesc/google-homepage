@@ -1,0 +1,18 @@
+img{
+	display: block;
+	margin: auto;
+}
+
+input {
+	display: block;
+	margin: auto;
+}
+.button{
+	margin: auto;
+}
+button{
+	margin-top: 30px;
+	position: relative;
+	left: 40%;
+	
+}
